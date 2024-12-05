@@ -4,7 +4,7 @@ Welkom bij de LEIA Project GitHub organisatie. Dit is de openbare plek voor de s
 
 Andere relevante informatie rondom de GitHub organisatie:
 
-Discussions zijn publiekelijk toegankelijk, gebruikers kunnen hier bijvoorbeeld vragen stellen of verzoeken doen.
+- Discussions zijn publiekelijk toegankelijk, gebruikers kunnen hier bijvoorbeeld vragen stellen of verzoeken doen.
 
 
 <p>
